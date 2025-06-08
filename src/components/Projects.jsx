@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import data from '../Data/projects.json';
 import '../Styles/Project.css' 
 
+
 function Projects() {
   const [projects, setProjects] = useState([]);
 
@@ -15,8 +16,9 @@ function Projects() {
       <h2>Projects</h2>
       <div className="projects-list">
         {projects.map(project => (
-          <div className="project-card" key={project.id}>
+          <div className="project-card" key={project.id1}>
             <img src={project.image} alt={project.title} className="project-image" />
+                
             <h3>{project.title}</h3>
             <p>{project.description}</p>
             <div className="project-tech">
@@ -25,8 +27,8 @@ function Projects() {
               ))}
             </div>
             <div className="project-links">
-              <a href={project.liveUrl} target="_blank" rel="noopener noreferrer">Live Demo</a>
-              <a href={project.githubUrl} target="_blank" rel="noopener noreferrer">GitHub</a>
+              <a href={project.liveUrl} target="_blank" rel="demo">Live Demo</a>
+              <a href={project.githubUrl} target="_blank" rel="github">GitHub</a>
             </div>
           </div>
         ))}

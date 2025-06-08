@@ -8,7 +8,7 @@
       "technologies": ["React", "Node.js", "CSS"],
       "liveUrl": "https://milk-farm-front-end.vercel.app/",
       "githubUrl": "https://github.com/chrisumurerwa/MilkFarm_FrontEnd.git",
-      "image": "/images/project1.jpg"
+      "image": "/assets/milkfarm.png"
     },
     {
       "id": 2,
@@ -17,7 +17,7 @@
       "technologies": ["React", "CSS","node.js"],
       "liveUrl": "https://shopping-website-yyig.vercel.app/",
       "githubUrl": "https://github.com/chrisumurerwa/Klab-first-project.git",
-      "image": "/images/project2.jpg"
+      "image": "/assets/Butiga.png"
     }
   ]
 }

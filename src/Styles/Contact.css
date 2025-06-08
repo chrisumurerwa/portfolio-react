@@ -42,11 +42,13 @@
 }
 
 .contact-form input:focus {
+
   border-color: #7f85f4;
   outline: none;
 }
 
 .contact-form button {
+
   padding: 0.8rem 1rem;
   background-color: #4b3f90;
   color: #fff;
@@ -55,6 +57,9 @@
   font-size: 1.1rem;
   cursor: pointer;
   transition: background-color 0.3s;
+  width: 60%;
+  margin-left: 5rem;
+  margin-right: 5rem;;
 }
 
 .contact-form button:hover {
