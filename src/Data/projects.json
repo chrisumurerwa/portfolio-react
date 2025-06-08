@@ -1,0 +1,23 @@
+
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Milk-Farm projects",
+      "description": " Farmers booking appointment with veterinary , farmers and other customers apply for mentorship and also get other services like  medical chechup and health vacinations of their animals",
+      "technologies": ["React", "Node.js", "CSS"],
+      "liveUrl": "https://milk-farm-front-end.vercel.app/",
+      "githubUrl": "https://github.com/chrisumurerwa/MilkFarm_FrontEnd.git",
+      "image": "/images/project1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Butiga E-commerce platform",
+      "description": "it's ashopping websites  that helps customers to buy products throught online",
+      "technologies": ["React", "CSS","node.js"],
+      "liveUrl": "https://shopping-website-yyig.vercel.app/",
+      "githubUrl": "https://github.com/chrisumurerwa/Klab-first-project.git",
+      "image": "/images/project2.jpg"
+    }
+  ]
+}
