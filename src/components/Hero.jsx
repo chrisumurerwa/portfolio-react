@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import data from '../Data/personal-Info.json';
-import Image from '../assets/chris.jpg';
+import Image from '../assets/Chris.jpg';
 import '../Styles/Hero.css';
 
 function Hero() {
