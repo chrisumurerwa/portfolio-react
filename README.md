@@ -68,8 +68,6 @@ Pinterest Portfolio Design Reference: [https://monsterone.com/psd-templates/pers
  Future Improvements
 Add animations and hover effects for enhanced interactivity.
 
-Implement more robust form validation and error handling.
-
 Expand the Projects section with in-depth case studies.
 
 
