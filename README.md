@@ -61,10 +61,9 @@ Fully optimized for mobile and desktop views with smooth scrolling.
 Utilizes useState and useEffect React hooks for dynamic data rendering.
 
  Design Inspiration
-Pinterest Portfolio Design Reference: [Add your design inspiration link here]
+Pinterest Portfolio Design Reference: [https://monsterone.com/psd-templates/personal-portfolio-cv-psd-template-o351747/?aff=tmfrog]
 
-🌐 Live Demo
-View it here: [Add your live demo link here]
+
 
  Future Improvements
 Add animations and hover effects for enhanced interactivity.
