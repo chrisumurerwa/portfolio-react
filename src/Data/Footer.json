@@ -1,0 +1,18 @@
+{
+  "contactInfo": {
+    "email": "chrisumurerwa1@gmail.com",
+    "phone": "+25 0785098785",
+    "location": "Kigali Rwanda, Nyarugenge"
+  },
+  "socialMedia": [
+    { "name": "GitHub", "url": "https://github.com/", "icon": "github" },
+    { "name": "LinkedIn", "url": "https://linkedin.com/", "icon": "linkedin" },
+    { "name": "Twitter", "url": "https://twitter.com/", "icon": "twitter" }
+  ],
+  "quickLinks": [
+    { "name": "Portfolio", "url": "/portfolio" },
+    { "name": "Resume", "url": "/https://drive.google.com/drive/u/0/home" },
+    { "name": "Blog", "url": "/blog" }
+  ],
+  "copyright": "© 2025 Christine Umurerwa all rights are served."
+}

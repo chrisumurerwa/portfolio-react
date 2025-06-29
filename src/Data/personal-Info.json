@@ -1,14 +1,9 @@
-
-
-  {
-    "hero": {
-      "name": "Christine Umurerwa",
-      "title": "software  Developer",
-      "tagline": "Hello! I am Umurerwa christine, a passionate individual who loves building functional websites. Welcome to my personal profile page.",
-      "image": "/assets/chris.jpg"
-    },
-     "about": {
-    "description": "I'm a passionate softeare developer with experience building responsive, user-friendly websites using modern tools like React and JavaScript.",
-    "interests": ["UI/UX Design", "Open Source", "Web Accessibility"]
+{
+  "hero": {
+    "name": "UMURERWA Christine",
+    "title": "I'm software developer",
+    "subtitle": "Welcome to the future of web application! Let's craft your dream web app together. Experience the difference between elegant design and functionality we're here to guide you every step of the way",
+    "image": "/assets/chris.jpg"
   }
-  }
+ 
+}

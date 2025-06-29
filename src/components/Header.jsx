@@ -34,6 +34,7 @@ const Header = () => {
 
   return (
     <header className="header">
+      <div className="header-logo">Umurerwa</div>
       <button className="hamburger" onClick={toggleMenu}>
         <span className="hamburger-line"></span>
         <span className="hamburger-line"></span>
