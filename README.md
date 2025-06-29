@@ -58,7 +58,7 @@ A functional contact form with validation
 Fully optimized for mobile and desktop views with smooth scrolling.
 
  State Management
-Utilizes useState and useEffect React hooks for dynamic data rendering.
+ i  have ued useState and useEffect React hooks for dynamic data rendering.
 
  Design Inspiration
 Pinterest Portfolio Design Reference: [https://monsterone.com/psd-templates/personal-portfolio-cv-psd-template-o351747/?aff=tmfrog]
