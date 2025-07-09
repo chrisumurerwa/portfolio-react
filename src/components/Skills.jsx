@@ -12,11 +12,22 @@ function Skills() {
   return (
     <section className="skills-section" id='skills'>
       <h2>Skills</h2>
-      <ul className="skills-list">
+      <div className="skills-grid">
         {skills.map((skill, index) => (
-          <li key={index} className="skill-item">{skill}</li>
+          <div key={index} className="skill-card">
+            <div className="skill-header">
+              <span className="skill-name">{skill.name}</span>
+              <span className="skill-percentage">{skill.level}%</span>
+            </div>
+            <div className="skill-bar">
+              <div
+                className="skill-progress"
+                style={{ width: `${skill.level}%` }}
+              ></div>
+            </div>
+          </div>
         ))}
-      </ul>
+      </div>
     </section>
   );
 }

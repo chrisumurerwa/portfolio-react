@@ -330,14 +330,17 @@
 }
 
 .hero-right {
+margin-right: 3rem;
+  margin-top: 7rem;
   flex: 1;
   display: flex;
   align-items: center;
   justify-content: center;
   min-width: 350px;
-  max-width: 50vw;
-  height: 100%;
+  max-width: 30vw;
+  height: 30%;
   background: none;
+  margin-bottom: 2rem;
 }
 
 .hero-img-split {

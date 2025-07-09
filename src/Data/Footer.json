@@ -10,9 +10,9 @@
     { "name": "Twitter", "url": "https://twitter.com/", "icon": "twitter" }
   ],
   "quickLinks": [
-    { "name": "Portfolio", "url": "/portfolio" },
-    { "name": "Resume", "url": "/https://drive.google.com/drive/u/0/home" },
-    { "name": "Blog", "url": "/blog" }
+   
+    { "name": "Resume", "url": "https://drive.google.com/file/d/1tQL36v1eI6uFx4-6fC1M7zeZ1iT4IKsV/view?usp=sharing" }
+    
   ],
   "copyright": "© 2025 Christine Umurerwa all rights are served."
 }

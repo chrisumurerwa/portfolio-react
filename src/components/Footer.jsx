@@ -47,10 +47,19 @@ const Footer = () => {
         <div className="footer-section quick-links">
           <h2>Quick Links</h2>
           <ul>
-            {quickLinks.map((link) => (
-              <li key={link.name}><a href={link.url}>{link.name}</a></li>
-            ))}
-          </ul>
+  {quickLinks.map((link) => (
+    <li key={link.name}>
+      <a 
+        href={link.url} 
+        target={link.url.startsWith('http') ? "_blank" : "_self"} 
+        rel={link.url.startsWith('http') ? "noopener noreferrer" : undefined}
+      >
+        {link.name}
+      </a>
+    </li>
+  ))}
+</ul>
+
         </div>
       </div>
       <div className="footer-bottom">

@@ -7,7 +7,7 @@ import Skills from "./components/Skills";
 import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
-import Blog from "./components/Blog";
+
 import Footer from "./components/Footer";
 
 
@@ -32,7 +32,7 @@ function App() {
         <Route path="/projects" element={<Projects />} />
         <Route path="/experiences" element={<Experience />} />
         <Route path="/contact" element={<Contact />} />
-        <Route path="/blog" element={<Blog />} />
+       
       </Routes>
     </BrowserRouter>
   );
@@ -40,16 +40,4 @@ function App() {
 
 export default App;
 
-// {
-//   /* <Router>
-//       {/* <Routes>
-//       <Route path="" index element={<Blog />} />
-//       <Route path="/projects" element={<Projects />} />
-//       <Route path="/experiences" element={<Experience />} />
-//       <Route path="/contact" element={<Contact />} />
-//       <Route path="/header" element={<Header />} />
-//       </Routes> */
-// }
-// {
-//   /* </Router> */
-// }
+

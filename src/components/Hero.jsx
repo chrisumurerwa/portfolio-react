@@ -14,7 +14,7 @@ function Hero() {
     <section className="hero hero-split" id="hero">
       <div className="hero-left">
         <h1 className="hero-title">
-          Hi <span role="img" aria-label="waving hand">👋</span><span role="img" aria-label="waving hand">👋</span> I'm <span className="hero-name">UMURERWA<br/>Christine</span>
+          Hi <span role="img" aria-label="waving hand">👋</span>  I'm <span className="hero-name">UMURERWA Christine</span>
         </h1>
         <div className="hero-subtitle-split">{info.subtitle}</div>
       </div>

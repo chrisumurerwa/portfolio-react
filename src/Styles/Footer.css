@@ -11,7 +11,7 @@
   align-items: flex-start;
   max-width: 1200px;
   margin: 0 auto;
-  padding: 0 2rem 2.5rem 0.5rem;
+  padding: 0 2rem 2.5rem 0;
   gap: 2rem;
 }
 
@@ -34,7 +34,8 @@
   gap: 0.7rem;
   font-size: 1.25rem;
   margin-bottom: 0.7rem;
-  justify-content: center;
+  justify-content: flex-start !important;
+  text-align: left !important;
 }
 
 .footer-icon {
@@ -80,9 +81,12 @@
 .footer-section.contact-info {
   background: none;
   color: #fff;
-  margin-left: 0;
-  align-items: flex-start;
-  text-align: left;
+  margin-left: 0 !important;
+  align-items: flex-start !important;
+  text-align: left !important;
+  padding-left: 0 !important;
+  display: flex;
+  flex-direction: column;
 }
 
 .footer-bottom {

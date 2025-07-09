@@ -1,3 +1,12 @@
 {
-  "skills": ["Reactjs", "JavaScript","typescripts","tailwind CSS","Next.js", "Node.js", "HTML", "Css"]
+  "skills": [
+    { "name": "Reactjs", "level": 80 },
+    { "name": "JavaScript", "level": 70 },
+    { "name": "Typescript", "level": 70 },
+    { "name": "Tailwind CSS", "level": 65 },
+    { "name": "Next.js", "level": 60 },
+    { "name": "Node.js", "level": 70 },
+    { "name": "HTML", "level": 90 },
+    { "name": "CSS", "level": 85 }
+  ]
 }

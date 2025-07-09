@@ -47,7 +47,7 @@ const Header = () => {
         <a href ="#skills"onClick={() => handleScrollToSection("skills")}>skills</a>
         <a href="#projects" onClick={() => handleScrollToSection("projects")}>Projects</a>
         <a href onClick={() => handleScrollToSection("contact")}>Contact</a>
-        <a href onClick={() => { setIsMenuOpen(false); navigate('/blog'); }}>Blog</a>
+       
       </nav>
     </header>
   );
